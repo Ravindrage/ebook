@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56e2af5a-628c-458a-b906-bd6dc8934951</dc:identifier>
+        <dc:title>Einstein's Theories of Relativity and Gravitation</dc:title>
+        <dc:creator opf:file-as="Bird, J. Malcolm" opf:role="aut">J. Malcolm Bird</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-03T23:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63372</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;J. Malcolm Bird&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-10-04T20:53:44.766851+00:00" name="calibre:timestamp"/>
+        <meta content="Einstein's Theories of Relativity and Gravitation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
