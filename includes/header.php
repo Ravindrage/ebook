@@ -30,6 +30,8 @@ if(!defined('MyConst')) {
 
     <!-- Template CSS -->
     <link rel="stylesheet" type="text/css" href="css/modern-business.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -68,7 +70,26 @@ if(!defined('MyConst')) {
 		#custom-search-input .glyphicon-search{
 		font-size: 23px;
 		}
-	
+
+        .contact-details li {
+            display: inline-block;
+        }
+
+        .contact-details li a:before {
+            position: relative;
+            content: "|";
+            font-size: 13px;
+            margin: 0 3px;
+            top: -1px;
+            color: #FFFFFF;
+        }
+
+        .contact-details li a {
+            font-size: 12px;
+            display: block;
+            line-height: 32px;
+            color: #FFFFFF;
+        }
 	
 	
 	</style>
@@ -112,18 +133,53 @@ if(!defined('MyConst')) {
 <!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-fixed-top" id='top' role="navigation">
     <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <!-- Start Contact Info -->
+                <ul class="contact-details">
+                    <li><a href="#"><i class="fa fa-map-marker"></i> <?php echo "Street-2, Los-angel";?></a>
+                    </li>
+                    <li><a href="#"><i class="fa fa-envelope-o"></i> <?php echo "info@ebook.com";?></a>
+                    </li>
+                    <li><a href="#"><i class="fa fa-phone"></i><?php echo "+51-56-9865-3252;"?></a>
+                    </li>
+                </ul>
+                <!-- End Contact Info -->
+            </div><!-- .col-md-6 -->
+            <div class="col-md-5">
+                <!-- Start Social Links -->
+                <ul class="social-list">
+                    <li>
+                        <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    
+                    <li>
+                        <a class="twitter itl-tooltip" data-placement="bottom" title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    
+                    <li>
+                        <a class="google itl-tooltip" data-placement="bottom" title="Google Plus" href="#"><i class="fa fa-google-plus"></i></a>
+                    </li>
+                                                
+                    <li>
+                        <a class="instgram itl-tooltip" data-placement="bottom" title="Instagram" href="#"><i class="fa fa-instagram"></i></a>
+                    </li>
+                                                
+                    <li>
+                        <a class="skype itl-tooltip" data-placement="bottom" title="Skype" href="#"><i class="fa fa-skype"></i></a>
+                    </li>
+                </ul>
+                <!-- End Social Links -->
+            </div><!-- .col-md-6 -->
+        </div><!-- .row -->
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
             <a class="navbar-brand" href="index.php"><?php echo $setupTitle;?></a>
+            <input type="text" style="margin-top: 12px; width: 300px; margin-left: 65px;" "name="search_text" id="search_text" placeholder="Search by Book Name"/>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            
             <?php 
                 getNav('Top','true','right');
             ?>
