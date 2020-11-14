@@ -35,64 +35,7 @@ if(!defined('MyConst')) {
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-    <!-- Custom CSS -->
-	<style>
 	
-		#custom-search-input{
-		padding: 3px;
-		border: solid 1px #E4E4E4;
-		border-radius: 6px;
-		background-color: #fff;
-		}
-
-		#custom-search-input input{
-		border: 0;
-		box-shadow: none;
-		}
-
-		#custom-search-input button{
-		margin: 2px 0 0 0;
-		background: none;
-		box-shadow: none;
-		border: 0;
-		color: #666666;
-		padding: 0 8px 0 10px;
-		border-left: solid 1px #ccc;
-		}
-
-		#custom-search-input button:hover{
-		border: 0;
-		box-shadow: none;
-		border-left: solid 1px #ccc;
-		}
-
-		#custom-search-input .glyphicon-search{
-		font-size: 23px;
-		}
-
-        .contact-details li {
-            display: inline-block;
-        }
-
-        .contact-details li a:before {
-            position: relative;
-            content: "|";
-            font-size: 13px;
-            margin: 0 3px;
-            top: -1px;
-            color: #FFFFFF;
-        }
-
-        .contact-details li a {
-            font-size: 12px;
-            display: block;
-            line-height: 32px;
-            color: #FFFFFF;
-        }
-	
-	
-	</style>
     <?php
         echo $customCss;
     ?>
@@ -132,7 +75,7 @@ if(!defined('MyConst')) {
 
 <!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-fixed-top" id='top' role="navigation">
-    <div class="container">
+    <div class="mainContent">
         <div class="row">
             <div class="col-md-7">
                 <!-- Start Contact Info -->
@@ -141,7 +84,7 @@ if(!defined('MyConst')) {
                     </li>
                     <li><a href="#"><i class="fa fa-envelope-o"></i> <?php echo "info@ebook.com";?></a>
                     </li>
-                    <li><a href="#"><i class="fa fa-phone"></i><?php echo "+51-56-9865-3252;"?></a>
+                    <li><a href="#"><i class="fa fa-phone"></i><?php echo "+51-56-9865-3252"; ?></a>
                     </li>
                 </ul>
                 <!-- End Contact Info -->
@@ -178,7 +121,7 @@ if(!defined('MyConst')) {
             <input type="text" style="margin-top: 12px; width: 300px; margin-left: 65px;" "name="search_text" id="search_text" placeholder="Search by Book Name"/>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="topMenu" id="bs-example-navbar-collapse-1">
             
             <?php 
                 getNav('Top','true','right');
