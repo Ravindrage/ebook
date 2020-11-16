@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/1794"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>King Lear</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THE TRAGEDY OF KING LEAR</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html#id00042"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>Scene: - Britain.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html#id00049"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>ACT I. Scene I. [King Lear's Palace.]</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html#id00050"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>Scene II. The Earl of Gloucester's Castle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html#id00057"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>Scene III. The Duke of Albany's Palace.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html#id00066"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>Scene IV. The Duke of Albany's Palace.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html#id00069"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>Scene V. Court before the Duke of Albany's Palace.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00100"/>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>ACT II. Scene I. A court within the Castle of the Earl of Gloucester.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00106"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>Scene II. Before Gloucester's Castle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00115"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>Scene III. The open country.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00120"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>Scene IV. Before Gloucester's Castle; Kent in the stocks.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00123"/>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>ACT III. Scene I. A heath.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00139"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>Scene II. Another part of the heath.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html#id00142"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>Scene III. Gloucester's Castle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00149"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>Scene IV. The heath. Before a hovel.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00152"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>Scene VI. A farmhouse near Gloucester's Castle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00169"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>Scene VII. Gloucester's Castle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00179"/>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>ACT IV. Scene I. The heath.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00187"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>Scene II. Before the Duke of Albany's Palace.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00192"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>Scene III. The French camp near Dover.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00201"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>Scene IV. The French camp.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00204"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>Scene V. Gloucester's Castle.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00209"/>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>Scene VI. The country near Dover.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html#id00212"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>Scene VII. A tent in the French camp.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-3.txt.html#id00224"/>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>ACT V. Scene I. The British camp near Dover.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@1794@1794-3.txt.html#id00230"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>Scene II. A field between the two camps.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-3.txt.html#id00239"/>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>Scene III. The British camp, near Dover.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@1794@1794-3.txt.html#id00245"/>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>THE END</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@1794@1794-3.txt.html#id00265"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="2.0">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/45852</dc:identifier>
+    <dc:creator opf:file-as="Janvier, Thomas A. (Thomas Allibone)">Thomas A. Janvier</dc:creator>
+    <dc:contributor opf:role="ill" opf:file-as="Clark, Walter Appleton">Walter Appleton Clark</dc:contributor>
+    <dc:title>Legends of the City of Mexico</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Legends -- Mexico</dc:subject>
+    <dc:subject>Folklore -- Mexico</dc:subject>
+    <dc:subject>Tales -- Mexico</dc:subject>
+    <dc:date opf:event="publication">2014-06-01</dc:date>
+    <dc:date opf:event="conversion">2017-09-23T12:00:53.168092+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/45852/45852-h/45852-h.htm</dc:source>
+    <meta content="item1" name="cover"/>
+  </metadata>
+  <manifest>
+    <!--Image: 520 x 784 size=80589 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@cover.jpg" id="item1" media-type="image/jpeg"/>
+    <!--Image: 520 x 800 size=69302 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-002.jpg" id="item2" media-type="image/jpeg"/>
+    <!--Image: 114 x 140 size=5265 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@logo.jpg" id="item3" media-type="image/jpeg"/>
+    <!--Image: 455 x 800 size=74101 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-029.jpg" id="item4" media-type="image/jpeg"/>
+    <!--Image: 524 x 800 size=99078 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-067.jpg" id="item5" media-type="image/jpeg"/>
+    <!--Image: 446 x 800 size=73789 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-089.jpg" id="item6" media-type="image/jpeg"/>
+    <!--Image: 529 x 800 size=81658 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-097.jpg" id="item7" media-type="image/jpeg"/>
+    <!--Image: 529 x 800 size=100079 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-121.jpg" id="item8" media-type="image/jpeg"/>
+    <!--Image: 526 x 800 size=95510 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-143.jpg" id="item9" media-type="image/jpeg"/>
+    <!--Image: 461 x 800 size=80147 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-147.jpg" id="item10" media-type="image/jpeg"/>
+    <!--Image: 482 x 800 size=74366 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-181.jpg" id="item11" media-type="image/jpeg"/>
+    <!--Image: 460 x 800 size=72441 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-185.jpg" id="item12" media-type="image/jpeg"/>
+    <!--Image: 454 x 800 size=77088 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-195.jpg" id="item13" media-type="image/jpeg"/>
+    <!--Image: 800 x 444 size=77167 -->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@images@illus-201.jpg" id="item14" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item15" media-type="text/css"/>
+    <item href="0.css" id="item16" media-type="text/css"/>
+    <item href="1.css" id="item17" media-type="text/css"/>
+    <!--Chunk: size=79892 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@45852-h-0.htm.html" id="item18" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=64013 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@45852-h-1.htm.html" id="item19" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=67678 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@45852-h-2.htm.html" id="item20" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=71989-->
+    <item href="@public@vhost@g@gutenberg@html@files@45852@45852-h@45852-h-3.htm.html" id="item21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref linear="no" idref="coverpage-wrapper"/>
+    <itemref linear="yes" idref="item18"/>
+    <itemref linear="yes" idref="item19"/>
+    <itemref linear="yes" idref="item20"/>
+    <itemref linear="yes" idref="item21"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="@public@vhost@g@gutenberg@html@files@45852@45852-h@45852-h-0.htm.html#pgepubid00003" title="CONTENTS"/>
+    <reference type="cover" href="wrap0000.html" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="2.0">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/46753</dc:identifier>
+    <dc:creator opf:file-as="Ficke, Arthur Davison">Arthur Davison Ficke</dc:creator>
+    <dc:title>Chats on Japanese Prints</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Color prints, Japanese</dc:subject>
+    <dc:date opf:event="publication">2014-09-02</dc:date>
+    <dc:date opf:event="conversion">2017-09-24T07:49:59.699451+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/46753/46753-h/46753-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 532 x 800 size=118342 -->
+    <item media-type="image/jpeg" id="item1" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@cover.jpg"/>
+    <!--Image: 182 x 400 size=29679 -->
+    <item media-type="image/jpeg" id="item2" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@frontis.jpg"/>
+    <!--Image: 102 x 257 size=6821 -->
+    <item media-type="image/png" id="item3" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus070.png"/>
+    <!--Image: 400 x 280 size=94259 -->
+    <item media-type="image/jpeg" id="item4" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_001.jpg"/>
+    <!--Image: 104 x 215 size=3507 -->
+    <item media-type="image/png" id="item5" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus075.png"/>
+    <!--Image: 228 x 400 size=70102 -->
+    <item media-type="image/jpeg" id="item6" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_002.jpg"/>
+    <!--Image: 209 x 400 size=61925 -->
+    <item media-type="image/jpeg" id="item7" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_003.jpg"/>
+    <!--Image: 104 x 263 size=11124 -->
+    <item media-type="image/png" id="item8" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus084.png"/>
+    <!--Image: 109 x 267 size=12094 -->
+    <item media-type="image/png" id="item9" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus088.png"/>
+    <!--Image: 400 x 261 size=88078 -->
+    <item media-type="image/jpeg" id="item10" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_004.jpg"/>
+    <!--Image: 103 x 231 size=5676 -->
+    <item media-type="image/png" id="item11" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus095.png"/>
+    <!--Image: 179 x 400 size=52496 -->
+    <item media-type="image/jpeg" id="item12" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_005.jpg"/>
+    <!--Image: 106 x 238 size=10454 -->
+    <item media-type="image/png" id="item13" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus096.png"/>
+    <!--Image: 206 x 400 size=68067 -->
+    <item media-type="image/jpeg" id="item14" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_006.jpg"/>
+    <!--Image: 102 x 201 size=5707 -->
+    <item media-type="image/png" id="item15" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus106.png"/>
+    <!--Image: 263 x 400 size=90833 -->
+    <item media-type="image/jpeg" id="item16" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_007.jpg"/>
+    <!--Image: 103 x 230 size=5359 -->
+    <item media-type="image/png" id="item17" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus111.png"/>
+    <!--Image: 205 x 400 size=52607 -->
+    <item media-type="image/jpeg" id="item18" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_008.jpg"/>
+    <!--Image: 198 x 400 size=63912 -->
+    <item media-type="image/jpeg" id="item19" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_009.jpg"/>
+    <!--Image: 102 x 237 size=5861 -->
+    <item media-type="image/png" id="item20" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus119.png"/>
+    <!--Image: 179 x 400 size=42682 -->
+    <item media-type="image/jpeg" id="item21" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_010.jpg"/>
+    <!--Image: 104 x 265 size=5798 -->
+    <item media-type="image/png" id="item22" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus124.png"/>
+    <!--Image: 286 x 400 size=86388 -->
+    <item media-type="image/jpeg" id="item23" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_011.jpg"/>
+    <!--Image: 102 x 191 size=4950 -->
+    <item media-type="image/png" id="item24" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus139.png"/>
+    <!--Image: 279 x 400 size=88330 -->
+    <item media-type="image/jpeg" id="item25" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_012.jpg"/>
+    <!--Image: 298 x 400 size=89509 -->
+    <item media-type="image/jpeg" id="item26" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_013.jpg"/>
+    <!--Image: 287 x 400 size=90796 -->
+    <item media-type="image/jpeg" id="item27" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_014.jpg"/>
+    <!--Image: 198 x 400 size=47879 -->
+    <item media-type="image/jpeg" id="item28" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_015.jpg"/>
+    <!--Image: 101 x 124 size=2744 -->
+    <item media-type="image/png" id="item29" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus157.png"/>
+    <!--Image: 190 x 400 size=47797 -->
+    <item media-type="image/jpeg" id="item30" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_016.jpg"/>
+    <!--Image: 103 x 181 size=4567 -->
+    <item media-type="image/png" id="item31" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus163.png"/>
+    <!--Image: 208 x 400 size=48686 -->
+    <item media-type="image/jpeg" id="item32" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_017.jpg"/>
+    <!--Image: 202 x 400 size=54065 -->
+    <item media-type="image/jpeg" id="item33" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_018.jpg"/>
+    <!--Image: 101 x 140 size=2938 -->
+    <item media-type="image/png" id="item34" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus171.png"/>
+    <!--Image: 101 x 126 size=3065 -->
+    <item media-type="image/png" id="item35" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus172.png"/>
+    <!--Image: 199 x 400 size=61239 -->
+    <item media-type="image/jpeg" id="item36" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_019.jpg"/>
+    <!--Image: 103 x 204 size=4998 -->
+    <item media-type="image/png" id="item37" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus177.png"/>
+    <!--Image: 200 x 400 size=68546 -->
+    <item media-type="image/jpeg" id="item38" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_020.jpg"/>
+    <!--Image: 187 x 400 size=53677 -->
+    <item media-type="image/jpeg" id="item39" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_021.jpg"/>
+    <!--Image: 105 x 271 size=6038 -->
+    <item media-type="image/png" id="item40" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus186.png"/>
+    <!--Image: 200 x 400 size=68070 -->
+    <item media-type="image/jpeg" id="item41" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_022.jpg"/>
+    <!--Image: 262 x 400 size=77801 -->
+    <item media-type="image/jpeg" id="item42" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_023.jpg"/>
+    <!--Image: 100 x 143 size=3169 -->
+    <item media-type="image/png" id="item43" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus193.png"/>
+    <!--Image: 177 x 400 size=47034 -->
+    <item media-type="image/jpeg" id="item44" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_024.jpg"/>
+    <!--Image: 102 x 145 size=3090 -->
+    <item media-type="image/png" id="item45" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus197.png"/>
+    <!--Image: 104 x 257 size=6467 -->
+    <item media-type="image/png" id="item46" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus199.png"/>
+    <!--Image: 104 x 207 size=5197 -->
+    <item media-type="image/png" id="item47" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus201.png"/>
+    <!--Image: 269 x 400 size=88960 -->
+    <item media-type="image/jpeg" id="item48" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_025.jpg"/>
+    <!--Image: 264 x 400 size=82323 -->
+    <item media-type="image/jpeg" id="item49" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_026.jpg"/>
+    <!--Image: 103 x 185 size=4257 -->
+    <item media-type="image/png" id="item50" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus218.png"/>
+    <!--Image: 256 x 400 size=92068 -->
+    <item media-type="image/jpeg" id="item51" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_027.jpg"/>
+    <!--Image: 275 x 400 size=87771 -->
+    <item media-type="image/jpeg" id="item52" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_028.jpg"/>
+    <!--Image: 400 x 202 size=73589 -->
+    <item media-type="image/jpeg" id="item53" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_029.jpg"/>
+    <!--Image: 199 x 400 size=53388 -->
+    <item media-type="image/jpeg" id="item54" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_030.jpg"/>
+    <!--Image: 400 x 301 size=105691 -->
+    <item media-type="image/jpeg" id="item55" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_031.jpg"/>
+    <!--Image: 103 x 179 size=4240 -->
+    <item media-type="image/png" id="item56" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus238.png"/>
+    <!--Image: 192 x 400 size=52853 -->
+    <item media-type="image/jpeg" id="item57" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_032.jpg"/>
+    <!--Image: 215 x 400 size=54061 -->
+    <item media-type="image/jpeg" id="item58" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_033.jpg"/>
+    <!--Image: 104 x 163 size=3488 -->
+    <item media-type="image/png" id="item59" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus246.png"/>
+    <!--Image: 104 x 232 size=5682 -->
+    <item media-type="image/png" id="item60" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus247.png"/>
+    <!--Image: 104 x 187 size=4930 -->
+    <item media-type="image/png" id="item61" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus249.png"/>
+    <!--Image: 400 x 281 size=97602 -->
+    <item media-type="image/jpeg" id="item62" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_034.jpg"/>
+    <!--Image: 100 x 221 size=3753 -->
+    <item media-type="image/png" id="item63" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus265.png"/>
+    <!--Image: 268 x 400 size=84423 -->
+    <item media-type="image/jpeg" id="item64" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_035.jpg"/>
+    <!--Image: 257 x 400 size=72692 -->
+    <item media-type="image/jpeg" id="item65" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_036.jpg"/>
+    <!--Image: 264 x 400 size=91504 -->
+    <item media-type="image/jpeg" id="item66" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_037.jpg"/>
+    <!--Image: 103 x 218 size=8582 -->
+    <item media-type="image/png" id="item67" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus274.png"/>
+    <!--Image: 108 x 247 size=5020 -->
+    <item media-type="image/png" id="item68" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus282.png"/>
+    <!--Image: 286 x 400 size=76435 -->
+    <item media-type="image/jpeg" id="item69" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_038.jpg"/>
+    <!--Image: 277 x 400 size=80778 -->
+    <item media-type="image/jpeg" id="item70" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_039.jpg"/>
+    <!--Image: 235 x 400 size=81792 -->
+    <item media-type="image/jpeg" id="item71" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_040.jpg"/>
+    <!--Image: 260 x 400 size=87570 -->
+    <item media-type="image/jpeg" id="item72" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_041.jpg"/>
+    <!--Image: 107 x 296 size=8002 -->
+    <item media-type="image/png" id="item73" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus300.png"/>
+    <!--Image: 282 x 400 size=93792 -->
+    <item media-type="image/jpeg" id="item74" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_042.jpg"/>
+    <!--Image: 268 x 400 size=83006 -->
+    <item media-type="image/jpeg" id="item75" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_043.jpg"/>
+    <!--Image: 270 x 400 size=84182 -->
+    <item media-type="image/jpeg" id="item76" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_044.jpg"/>
+    <!--Image: 104 x 221 size=5230 -->
+    <item media-type="image/png" id="item77" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus320.png"/>
+    <!--Image: 211 x 400 size=58285 -->
+    <item media-type="image/jpeg" id="item78" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_045.jpg"/>
+    <!--Image: 224 x 400 size=56797 -->
+    <item media-type="image/jpeg" id="item79" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_046.jpg"/>
+    <!--Image: 106 x 205 size=5211 -->
+    <item media-type="image/png" id="item80" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus327.png"/>
+    <!--Image: 105 x 230 size=6312 -->
+    <item media-type="image/png" id="item81" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus331.png"/>
+    <!--Image: 286 x 400 size=89954 -->
+    <item media-type="image/jpeg" id="item82" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_047.jpg"/>
+    <!--Image: 104 x 245 size=5930 -->
+    <item media-type="image/png" id="item83" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus339.png"/>
+    <!--Image: 400 x 197 size=70323 -->
+    <item media-type="image/jpeg" id="item84" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_048.jpg"/>
+    <!--Image: 102 x 218 size=5300 -->
+    <item media-type="image/png" id="item85" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus352.png"/>
+    <!--Image: 105 x 267 size=5319 -->
+    <item media-type="image/png" id="item86" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus354.png"/>
+    <!--Image: 102 x 163 size=3837 -->
+    <item media-type="image/png" id="item87" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus359.png"/>
+    <!--Image: 400 x 269 size=81693 -->
+    <item media-type="image/jpeg" id="item88" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_049.jpg"/>
+    <!--Image: 400 x 267 size=89085 -->
+    <item media-type="image/jpeg" id="item89" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_050.jpg"/>
+    <!--Image: 181 x 400 size=55742 -->
+    <item media-type="image/jpeg" id="item90" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_051.jpg"/>
+    <!--Image: 107 x 212 size=8073 -->
+    <item media-type="image/png" id="item91" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus374a.png"/>
+    <!--Image: 107 x 183 size=3892 -->
+    <item media-type="image/png" id="item92" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus374b.png"/>
+    <!--Image: 400 x 255 size=80137 -->
+    <item media-type="image/jpeg" id="item93" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_052.jpg"/>
+    <!--Image: 103 x 194 size=4597 -->
+    <item media-type="image/png" id="item94" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus379.png"/>
+    <!--Image: 400 x 258 size=80387 -->
+    <item media-type="image/jpeg" id="item95" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_053.jpg"/>
+    <!--Image: 268 x 400 size=83714 -->
+    <item media-type="image/jpeg" id="item96" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_054.jpg"/>
+    <!--Image: 268 x 400 size=83346 -->
+    <item media-type="image/jpeg" id="item97" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_055.jpg"/>
+    <!--Image: 189 x 400 size=52979 -->
+    <item media-type="image/jpeg" id="item98" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@plate_056.jpg"/>
+    <!--Image: 101 x 202 size=4680 -->
+    <item media-type="image/png" id="item99" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus398.png"/>
+    <!--Image: 103 x 184 size=4688 -->
+    <item media-type="image/png" id="item100" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@images@illus399.png"/>
+    <item media-type="text/css" id="item101" href="pgepub.css"/>
+    <item media-type="text/css" id="item102" href="0.css"/>
+    <item media-type="text/css" id="item103" href="1.css"/>
+    <!--Chunk: size=82206 Split on p-->
+    <item media-type="application/xhtml+xml" id="item104" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-0.htm.html"/>
+    <!--Chunk: size=51907 Split on div-->
+    <item media-type="application/xhtml+xml" id="item105" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-1.htm.html"/>
+    <!--Chunk: size=51357 Split on div-->
+    <item media-type="application/xhtml+xml" id="item106" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-2.htm.html"/>
+    <!--Chunk: size=54261 Split on div-->
+    <item media-type="application/xhtml+xml" id="item107" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-3.htm.html"/>
+    <!--Chunk: size=52400 Split on div-->
+    <item media-type="application/xhtml+xml" id="item108" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-4.htm.html"/>
+    <!--Chunk: size=52425 Split on div-->
+    <item media-type="application/xhtml+xml" id="item109" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-5.htm.html"/>
+    <!--Chunk: size=52890 Split on div-->
+    <item media-type="application/xhtml+xml" id="item110" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-6.htm.html"/>
+    <!--Chunk: size=52188 Split on div-->
+    <item media-type="application/xhtml+xml" id="item111" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-7.htm.html"/>
+    <!--Chunk: size=54477 Split on div-->
+    <item media-type="application/xhtml+xml" id="item112" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-8.htm.html"/>
+    <!--Chunk: size=53476 Split on div-->
+    <item media-type="application/xhtml+xml" id="item113" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-9.htm.html"/>
+    <!--Chunk: size=81706 Split on h3-->
+    <item media-type="application/xhtml+xml" id="item114" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-10.htm.html"/>
+    <!--Chunk: size=82334 Split on p-->
+    <item media-type="application/xhtml+xml" id="item115" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-11.htm.html"/>
+    <!--Chunk: size=48121-->
+    <item media-type="application/xhtml+xml" id="item116" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-12.htm.html"/>
+    <item media-type="application/x-dtbncx+xml" id="ncx" href="toc.ncx"/>
+    <item media-type="application/xhtml+xml" id="coverpage-wrapper" href="wrap0000.html"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="no"/>
+    <itemref idref="item104" linear="yes"/>
+    <itemref idref="item105" linear="yes"/>
+    <itemref idref="item106" linear="yes"/>
+    <itemref idref="item107" linear="yes"/>
+    <itemref idref="item108" linear="yes"/>
+    <itemref idref="item109" linear="yes"/>
+    <itemref idref="item110" linear="yes"/>
+    <itemref idref="item111" linear="yes"/>
+    <itemref idref="item112" linear="yes"/>
+    <itemref idref="item113" linear="yes"/>
+    <itemref idref="item114" linear="yes"/>
+    <itemref idref="item115" linear="yes"/>
+    <itemref idref="item116" linear="yes"/>
+  </spine>
+  <guide>
+    <reference title="CONTENTS" type="toc" href="@public@vhost@g@gutenberg@html@files@46753@46753-h@46753-h-0.htm.html#pgepubid00002"/>
+    <reference title="Cover" type="cover" href="wrap0000.html"/>
+  </guide>
+</package>

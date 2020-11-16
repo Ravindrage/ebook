@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Copyrighted. Read the copyright notice inside this book for details.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/1794</dc:identifier>
+    <dc:creator opf:file-as="Shakespeare, William">William Shakespeare</dc:creator>
+    <dc:title>King Lear</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Tragedies</dc:subject>
+    <dc:subject>Fathers and daughters -- Drama</dc:subject>
+    <dc:subject>Inheritance and succession -- Drama</dc:subject>
+    <dc:subject>Lear, King (Legendary character) -- Drama</dc:subject>
+    <dc:subject>Britons -- Drama</dc:subject>
+    <dc:subject>Kings and rulers -- Drama</dc:subject>
+    <dc:subject>Aging parents -- Drama</dc:subject>
+    <dc:date opf:event="publication">1999-06-01</dc:date>
+    <dc:date opf:event="conversion">2017-10-01T08:32:52.955707+00:00</dc:date>
+    <dc:source>http://www.gutenberg.orgfiles/1794/1794.txt</dc:source>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <!--Chunk: size=83423 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@1794@1794-0.txt.html" id="id00000" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=79793 Split on h2-->
+    <item href="@public@vhost@g@gutenberg@html@files@1794@1794-1.txt.html" id="id00095" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=83889 Split on p-->
+    <item href="@public@vhost@g@gutenberg@html@files@1794@1794-2.txt.html" id="id00149" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=60807-->
+    <item href="@public@vhost@g@gutenberg@html@files@1794@1794-3.txt.html" id="id00217" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="id00095" linear="yes"/>
+    <itemref idref="id00149" linear="yes"/>
+    <itemref idref="id00217" linear="yes"/>
+  </spine>
+</package>

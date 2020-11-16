@@ -1,0 +1,113 @@
+/**/
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    /* all headings centered */
+    clear: both
+    }
+p {
+    margin-top: 0.51em;
+    text-align: justify;
+    margin-bottom: 0.49em
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both
+    }
+hr.tb {
+    width: 45%
+    }
+hr.chap {
+    width: 65%
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+.tdr {
+    text-align: right
+    }
+.tdc {
+    text-align: center
+    }
+.pagenum {
+    /* uncomment the next line for invisible page numbers */
+    /*  visibility: hidden;  */
+    font-size: smaller;
+    text-align: right
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.caption {
+    font-weight: bold
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.8em;
+    text-decoration: none
+    }
+.poem {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left
+    }
+.poem br {
+    display: none
+    }
+.poem .stanza {
+    margin: 1em 0 1em 0
+    }
+.lf {
+    font-size: 200%
+    }
+.mf {
+    font-size: 160%
+    }
+.poem span.i0 {
+    display: block;
+    margin-left: 0;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i1 {
+    display: block;
+    margin-left: 0.5em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.smal {
+    font-size: smaller
+    }
+.red {
+    color: #F03
+    }
+/* Transcriber's notes */
+.tn {
+    background-color: #E6E6FA;
+    color: black;
+    font-size: smaller;
+    padding: 0.5em;
+    margin-bottom: 5em;
+    font-family: sans-serif, serif
+    }
+/**/

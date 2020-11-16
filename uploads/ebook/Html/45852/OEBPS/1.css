@@ -1,0 +1,32 @@
+/**/
+td.c11 {
+    font-style: italic
+    }
+td.c10 {
+    font-weight: bold
+    }
+table.c9 {
+    border-collapse: collapse
+    }
+td.c8 {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid
+    }
+td.c7 {
+    border-right-style: solid
+    }
+td.c6 {
+    border-left-style: solid
+    }
+td.c5 {
+    border-left-style: solid;
+    border-right-style: solid
+    }
+td.c4 {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    font-weight: bold
+    }
+/**/

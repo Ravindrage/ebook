@@ -1,0 +1,137 @@
+/**/
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    /* all headings centered */
+    clear: both
+    }
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    margin-bottom: 0.75em
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both
+    }
+hr.chap {
+    margin-left: 17.5%;
+    width: 65%;
+    margin-right: 17.5%
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+.pagenum {
+    /* uncomment the next line for invisible page numbers */
+    /*  visibility: hidden;  */
+    font-size: smaller;
+    text-align: right;
+    font-style: normal
+    }
+/* page numbers */
+.label {
+    margin-left: 25%;
+    text-align: left
+    }
+.center {
+    text-align: center
+    }
+.smcap1 {
+    font-variant: small-caps
+    }
+.smcap2 {
+    font-variant: small-caps
+    }
+.leftcaption {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1em
+    }
+.rightcaption {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1em
+    }
+@media all {
+    /* was @media handheld */
+    .smcap2 {
+        font-weight: bold;
+        font-style: italic
+        }
+    .leftcaption {
+        float: left;
+        width: 50%
+        }
+    .rightcaption {
+        float: right;
+        width: 50%
+        }
+    }
+.caption {
+    font-weight: bold
+    }
+/* Images */
+.figcenter {
+    margin: auto;
+    text-align: center;
+    clear: both
+    }
+/* Poetry */
+.poem {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left
+    }
+.poem br {
+    display: none
+    }
+.poem .stanza {
+    margin: 1em 0 1em 0
+    }
+.poem span.i0 {
+    display: block;
+    margin-left: 0;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i2 {
+    display: block;
+    margin-left: 2em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i4 {
+    display: block;
+    margin-left: 4em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i6 {
+    display: block;
+    margin-left: 6em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.ph1, .ph2 {
+    text-align: center;
+    text-indent: 0;
+    font-weight: bold
+    }
+.ph1 {
+    font-size: xx-large;
+    margin: 0.67em auto
+    }
+.ph2 {
+    font-size: x-large;
+    margin: 0.75em auto
+    }
+/**/
