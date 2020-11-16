@@ -49,7 +49,7 @@ if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
 		{
 		rename("uploads/ebook/coverImage/".$filename,"upload/ebook/coverImage/".$rowServices['title'].'.'.$ext);
 		echo "Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."'" ;
-		mysqli_query($con,"Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."' ");
+		mysqli_query($con,"Update books set image='".$rowServices['title'].'.'.$ext."' where id='".$rowServices['id']."' ");
 		}
     }
 	
@@ -67,8 +67,8 @@ if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
 		if( copy($filename,"uploads/ebook/coverImage/".$rowServices['id'].'.'.$ext ))
 		{
 		rename("uploads/ebook/coverImage/".$filename,"upload/ebook/coverImage/".$rowServices['title'].'.'.$ext);
-		echo "Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."'" ;
-		mysqli_query($con,"Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."' ");
+		
+		mysqli_query($con,"Update books set image='".$rowServices['title'].'.'.$ext."' where id='".$rowServices['id']."' ");
 		}
     }
 	
