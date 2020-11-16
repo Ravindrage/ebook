@@ -17,7 +17,7 @@ while ($rowServices = mysqli_fetch_array($sqlBooks)){
 	//print_r($rowServices);
 	echo '<br>';
 	
-if($i==20) { exit; }
+if($i==7) { exit; }
 
 echo $filename = "uploads/ebook/50000_ebooks/".$rowServices['title'].".epub";
 
@@ -25,10 +25,12 @@ echo $filename = "uploads/ebook/50000_ebooks/".$rowServices['title'].".epub";
 if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
     exit("cannot open <$filename>\n");
 }else
-{   mkdir("uploads/ebook/Html/".$rowServices['title'],777);
-
+{   $dir = "uploads/ebook/Html/".$rowServices['title'] ;
+    if(!file_exists( $dir ) && !is_dir( $dir )) {
+	mkdir($dir,777);
 	$zip->extractTo("uploads/ebook/Html/".$rowServices['title']);
 	$zip->close();
+	}
 	
 		
 }
@@ -66,7 +68,7 @@ if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
 		echo '<br>';
 		if( copy($filename,"uploads/ebook/coverImage/".$rowServices['id'].'.'.$ext ))
 		{
-		rename("uploads/ebook/coverImage/".$filename,"upload/ebook/coverImage/".$rowServices['title'].'.'.$ext);
+		rename("uploads/ebook/coverImage/".$filename,"uploads/ebook/coverImage/".$rowServices['title'].'.'.$ext);
 		
 		mysqli_query($con,"Update books set image='".$rowServices['title'].'.'.$ext."' where id='".$rowServices['id']."' ");
 		}
