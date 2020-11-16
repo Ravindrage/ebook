@@ -17,7 +17,7 @@ while ($rowServices = mysqli_fetch_array($sqlBooks)){
 	//print_r($rowServices);
 	echo '<br>';
 	
-if($i==7) { exit; }
+//if($i==7) { exit; }
 
 echo $filename = "uploads/ebook/50000_ebooks/".$rowServices['title'].".epub";
 
