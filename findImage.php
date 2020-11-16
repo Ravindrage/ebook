@@ -45,11 +45,11 @@ if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
 		//echo move_uploaded_file($filename,"upload/ebook/coverImage/".$rowServices['id'].'.'.$ext);
 		echo $filename;
 		echo "upload/ebook/coverImage/".$rowServices['id'].'.'.$ext ;
-		if( copy($filename,"upload/ebook/coverImage/"))
+		if( copy($filename,"uploads/ebook/coverImage/".$rowServices['id'].'.'.$ext ))
 		{
 		rename("uploads/ebook/coverImage/".$filename,"upload/ebook/coverImage/".$rowServices['title'].'.'.$ext);
 		echo "Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."'" ;
-		mysqli_query($con,"Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."' ");
+		mysqli_query($con,"Update books set image='".$rowServices['title'].'.'.$ext."' where id='".$rowServices['id']."' ");
 		}
     }
 	
@@ -64,11 +64,11 @@ if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
 		echo $filename; echo '------------';
 		echo "upload/ebook/coverImage/".$rowServices['id'].'.'.$ext ;
 		echo '<br>';
-		if( copy($filename,"upload/ebook/coverImage/"))
+		if( copy($filename,"uploads/ebook/coverImage/".$rowServices['id'].'.'.$ext ))
 		{
 		rename("uploads/ebook/coverImage/".$filename,"upload/ebook/coverImage/".$rowServices['title'].'.'.$ext);
-		echo "Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."'" ;
-		mysqli_query($con,"Update books set image='".$rowServices['title'].$ext."' where id='".$rowServices['id']."' ");
+		
+		mysqli_query($con,"Update books set image='".$rowServices['title'].'.'.$ext."' where id='".$rowServices['id']."' ");
 		}
     }
 	
