@@ -22,7 +22,7 @@ if(!defined('MyConst')) {
 	if (!empty($featuredImage)) {
 		if ($featuredImageAlign == "right") {
 			echo "<div class='col-md-10'>";
-			echo "".$featuredContent;
+			echo $featuredContent;
 			echo "</div>";
 			echo "<div class='col-md-2'>";
 			echo $featuredImage;
