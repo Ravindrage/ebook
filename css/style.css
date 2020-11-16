@@ -1,0 +1,180 @@
+.mainContent {
+	width: auto;
+}
+
+.bodyContent {
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+<!-- Custom CSS -->
+#custom-search-input{
+	padding: 3px;
+	border: solid 1px #E4E4E4;
+	border-radius: 6px;
+	background-color: #fff;
+}
+
+#custom-search-input input{
+	border: 0;
+	box-shadow: none;
+}
+
+#custom-search-input button{
+	margin: 2px 0 0 0;
+	background: none;
+	box-shadow: none;
+	border: 0;
+	color: #666666;
+	padding: 0 8px 0 10px;
+	border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+	border: 0;
+	box-shadow: none;
+	border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+	font-size: 23px;
+}
+
+.contact-details li a:before {
+	color: rgba(255,255,255,.2);
+}
+
+.contact-details li a {
+	color: #FFFF;
+}
+
+.contact-details li {
+	display: inline-block;
+}
+
+.contact-details li a:before {
+	position: relative;
+	content: "|";
+	font-size: 13px;
+	margin: 0 3px;
+	top: -1px;
+	color: #36C4F3;
+}
+
+.contact-details li a:before {
+	color: #FFFF;
+}
+
+.contact-details li:first-child a:before {
+	display: none;
+}
+
+.contact-details li a {
+	font-size: 12px;
+	display: block;
+	line-height: 32px;
+}
+
+.social-list {
+	margin-right: 10px !important;
+}
+
+ul.social-list {
+    float: right;
+}
+
+ul.social-list li {
+    float: left;
+}
+
+ul.social-list li a {
+    display: inline-block;
+	transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    color: #FFFF;
+}
+
+ul.social-list li a:hover {
+	color: #fff;
+}
+
+ul.social-list li a.facebook:hover {
+	background-color: #507CBE;
+}
+
+ul.social-list li a.twitter:hover {
+	background-color: #63CDF1;
+}
+
+ul.social-list li a.google:hover {
+	background-color: #F16261;
+}
+
+ul.social-list li a.dribbble:hover {
+	background-color: #E46387;
+}
+
+ul.social-list li a.linkdin:hover {
+	background-color: #90CADD;
+}
+
+ul.social-list li a.tumblr:hover {
+	background-color: #4D7EA3;
+}
+
+ul.social-list li a.flickr:hover {
+	background-color: #E474AF;
+}
+
+ul.social-list li a.instgram:hover {
+	background-color: #4D4F54;
+}
+
+ul.social-list li a.vimeo:hover {
+	background-color: #87D3E0;
+}
+
+ul.social-list li a.skype:hover {
+	background-color: #36C4F3
+}
+
+ul.social-list li a i {
+	font-size: 1em;
+	display: block;
+	width: 34px;
+	height: 30px;
+	line-height: 33px;
+	text-align: center;
+	border-left: 1px solid #403737;
+}
+
+ul.social-list li:last-child a i {
+	border-right: 1px solid #403737;
+}
+
+#bottom {
+    background: #222;
+    border-bottom: 2px solid #c52d2f;
+    font-size: 14px;
+    width: auto !important; 
+
+}
+
+.footerarea {
+  	color: #ffff;
+}
+
+.uldecoration {
+	list-style-type: none;
+}
+
+.uldecoration li a {
+	color: #FFFF;
+}
+
+.topMenu {
+	margin-right: 10px !important;
+	margin-left: 10px !important;
+}
